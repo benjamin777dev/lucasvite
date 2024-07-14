@@ -2,6 +2,7 @@
   "name": "brainwave",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://lucas31177.github.io/lucasvite/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
