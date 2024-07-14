@@ -7,4 +7,5 @@ export default defineConfig({
   server: {
     port: 80, // Replace 8000 with your desired port number
   },
+  base: '/lucasvite/',
 })
